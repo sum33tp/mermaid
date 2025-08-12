@@ -1,0 +1,18 @@
+{
+    "name": "mermaid-diagrams",
+    "version": "1.0.0",
+    "description": "Mermaid diagrams",
+    "type": "commonjs",
+    "engines": {
+        "node": ">=22"
+    },
+    "scripts": {
+        "gen:svg": "node scripts/generate-svg.js"
+    },
+    "keywords": [],
+    "author": "Sumeet Prajapati",
+    "license": "ISC",
+    "dependencies": {
+        "@mermaid-js/mermaid-cli": "^11.9.0"
+    }
+}
