@@ -26,6 +26,10 @@ mermaid-diagrams
 ### Flowchart
 
 ```mermaid
+---
+config:
+    layout: dagre
+---
 flowchart LR
     r["Project Root 🏁"] --> d("Diagrams 🗂️") & s("Scripts 📑")
 
