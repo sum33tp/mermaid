@@ -1,6 +1,6 @@
-# Mermaid Diagrams
+# Mermaid
 
-This is a collection of the diagrams that I use for planning and understanding feature flows.
+Diagrams for planning and understanding feature flows. Powered by [mermaid.js](https://mermaid.js.org/)
 
 ## Project Structure
 
